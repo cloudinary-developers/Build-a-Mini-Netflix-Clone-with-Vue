@@ -1,4 +1,4 @@
-# Build a Mini Netflix Clone with Vue
+# Summary
 
 * [Intro](/vue/intro.md "Intro")
 

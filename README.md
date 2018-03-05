@@ -1,3 +1,19 @@
-# My Awesome Book
+# Build a Mini Netflix Clone with Vue
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+> Add image Here
+
+# [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
+
+In this lab, we will build out a **Mini Netflix** with Vue and Cloudinary in 10 minutes. In fact, I think we might build it less time. Check out the demo.
+
+Developers are constantly faced with challenges of building complex products every single day. And there are constraints on the time needed to build out the features of these products.
+
+Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
+
+If you want to check out the final project, visit the 
+> Add link to GitHub Project.
+
+
+
