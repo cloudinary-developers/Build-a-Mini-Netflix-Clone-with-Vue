@@ -1,5 +1,5 @@
 # Summary
 
-* [Intro](/vue/intro.md "Intro")
-
+* [Introduction](README.md)
+* [Part One](/vue/intro.md)
 
