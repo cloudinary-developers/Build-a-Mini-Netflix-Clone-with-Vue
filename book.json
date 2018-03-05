@@ -1,0 +1,65 @@
+{
+  "plugins": [
+    "insert-logo-link",
+    "html5-video",
+    "youtube",
+    "codepen",
+    "sharing",
+    "code",
+    "richquotes"
+  ],
+  "pluginsConfig": {
+  "code": {
+    "copyButtons": true
+  },
+  "richquotes":
+        {
+            "star": {
+                "alert": "warning",
+                "picto": "fa-star"
+            },
+            "custom": {
+                "alert": "success",
+                "picto": "fa-user"
+            }
+    },
+    "theme-default": {
+      "showLevel": false,
+      "styles": {
+        "website": "build/gitbook.css"
+      }
+    },
+    "insert-logo-link": {
+      "src": "https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_200/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png",
+      "url": "https://www.cloudinary.com"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": true,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper"
+      ]
+    },
+    "theme-api": {
+      "languages": [
+        {
+          "lang": "js",
+          "name": "JavaScript",
+          "default": true
+        },
+        {
+          "lang": "go",
+          "name": "Go"
+        }
+      ]
+    }
+  }
+}
