@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part One](/vue/intro.md)
+* [Media Delivery and Transformation](/vue/intro.md)
 
