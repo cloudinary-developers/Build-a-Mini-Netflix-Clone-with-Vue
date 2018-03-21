@@ -12,7 +12,7 @@ Engineering and Product managers want to beat deadlines for projects daily. CEOs
 
 If you want to check out the final project, visit the
 
-<a type="button" href="https://github.com/cloudinary-developers/vue-mini-netflix-demo" class="btn btn-default btn-md" role="button">Code</a>
+[Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
 
 ## General Prerequisites
 
