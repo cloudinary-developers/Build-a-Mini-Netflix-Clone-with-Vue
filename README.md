@@ -10,9 +10,13 @@ Developers are constantly faced with challenges of building complex products eve
 
 Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
 
-If you want to check out the final project, visit the
+If you want to check out the final project, visit the Github repo:
 
 [Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
+
+You can also see the demo live here:
+
+[Demo](https://stupefied-mirzakhani-71dd38.netlify.com/)
 
 ## General Prerequisites
 
