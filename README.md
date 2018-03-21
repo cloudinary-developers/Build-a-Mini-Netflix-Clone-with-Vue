@@ -24,6 +24,6 @@ You can also see the demo live here:
 
 This guide assumes you:
 
-* Worked with Vue recently and have a fair knowledge of JavaScript.
+* Worked with [Vue](https://vuejs.org/) recently and have a fair knowledge of JavaScript.
 * Understand the basics what SaaS and FaaS is.
-* Know what Node.js is and some basic knowledge.
+* Know what Node.js is and some basic knowledge. Node will be used for the Serverless Webtask.
