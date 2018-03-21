@@ -1,6 +1,6 @@
 # Build a Mini Netflix Clone with Vue
 
-> Add image Here
+> Add image here
 
 # [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
@@ -12,9 +12,9 @@ Engineering and Product managers want to beat deadlines for projects daily. CEOs
 
 If you want to check out the final project, visit the Github repo:
 
-- [Client Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
+* [Client Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
 
-- [Server Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
+* [Server Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
 
 You can also see the demo live here:
 
