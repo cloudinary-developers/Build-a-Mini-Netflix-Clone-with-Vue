@@ -1,7 +1,5 @@
 # Build a Mini Netflix Clone with Vue
 
-
-
 > Add image Here
 
 # [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
@@ -12,8 +10,19 @@ Developers are constantly faced with challenges of building complex products eve
 
 Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
 
-If you want to check out the final project, visit the 
+If you want to check out the final project, visit the
+
 > Add link to GitHub Project.
+
+
+
+## General Prerequisites
+
+This guide assumes you:
+
+* Worked with Vue recently and have a fair knowledge of JavaScript
+* Understand the basics what SaaS and FaaS is.
+* Know what Node.js is and some basic knowledge
 
 
 
