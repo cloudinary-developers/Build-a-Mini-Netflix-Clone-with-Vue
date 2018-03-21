@@ -12,17 +12,12 @@ Engineering and Product managers want to beat deadlines for projects daily. CEOs
 
 If you want to check out the final project, visit the
 
-> Add link to GitHub Project.
-
-
+<a type="button" class="btn btn-default btn-md" role="button">Code</a>
 
 ## General Prerequisites
 
 This guide assumes you:
 
-* Worked with Vue recently and have a fair knowledge of JavaScript
+* Worked with Vue recently and have a fair knowledge of JavaScript.
 * Understand the basics what SaaS and FaaS is.
-* Know what Node.js is and some basic knowledge
-
-
-
+* Know what Node.js is and some basic knowledge.
