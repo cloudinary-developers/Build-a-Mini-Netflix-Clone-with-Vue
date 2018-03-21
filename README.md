@@ -12,9 +12,9 @@ Engineering and Product managers want to beat deadlines for projects daily. CEOs
 
 If you want to check out the final project, visit the Github repo:
 
-- [Client Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
+* [Client Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo)
 
-- [Server Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
+* [Server Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
 
 You can also see the demo live here:
 
@@ -27,3 +27,6 @@ This guide assumes you:
 * Worked with Vue recently and have a fair knowledge of JavaScript.
 * Understand the basics what SaaS and FaaS is.
 * Know what Node.js is and some basic knowledge.
+
+
+
