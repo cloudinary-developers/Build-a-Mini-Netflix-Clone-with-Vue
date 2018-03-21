@@ -1,6 +1,6 @@
 # Build a Mini Netflix Clone with Vue
 
-> Add image Here
+> Add image here
 
 # [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
