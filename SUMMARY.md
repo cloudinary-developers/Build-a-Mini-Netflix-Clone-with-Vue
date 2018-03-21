@@ -1,5 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-* [Media Delivery and Transformation](/vue/intro.md)
+* [Media Delivery and Transformation](/vue/0.intro.md)
+* [Setting Up a Webtask Server](/vue/01.setting-up-a-webtask-server.md)
+* [Provision and Configure a Database](/vue/02.provision-and-configure-a-database.md)
+* [Create Server Routes](/vue/03.create-server-routes.md)
+* [Setting Up a Vue Client](/vue/04.setting-up-a-vue-client.md)
+* [Header and Navigation](/vue/05.header-and-navigation.md)
+* [Video Player Component](/vue/06.video-player-component.md)
+* [Playing Videos](/vue/07.playing-videos.md)
+* [Cloudinary Account and Initialization](/vue/08.cloudinary-account-and-initialization.md)
+* [List of Movies Component](/vue/09.list-of-movies-component.md)
+* [Showing A List of Movies](/vue/10.showing-a-list-of-movies.md)
+* [New Movie Modal Component](/vue/11.new-movie-modal-component.md)
+* [Creating Movies](/vue/12.creating-movies.md)
 
