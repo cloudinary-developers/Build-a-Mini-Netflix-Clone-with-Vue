@@ -5,7 +5,7 @@
 
 # [Building Mini-Netflix Clones with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
-> *MS: Shouldn't we delete the duplicate title at the top?
+> *MS: I suggest deleting the duplicate title at the top.
 
 You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs want to roll out new products fast; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
 
@@ -75,4 +75,4 @@ Note these rules:
   
   If what you are doing makes someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
   
-- The contest organizers reserve the right to, at their discretion, disqualify any participating team from the contest. Reasons might include but are not limited to  unsporting behavior.
+- The contest organizers reserve the right to, at their discretion, disqualify any participating team from the contest. Reasons might include but are not limited to unsporting behavior.
