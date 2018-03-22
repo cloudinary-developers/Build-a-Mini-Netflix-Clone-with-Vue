@@ -1,6 +1,7 @@
 # Build a Mini Netflix Clone with Vue
 
-> Add image here
+![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
+
 
 # [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
@@ -47,10 +48,6 @@ Just like I mentioned in the beginning, we will build a Mini Netflix app with so
 - Watching a movie trailer
 - Sharing trailers on Twitter
 - Bonus: Uploading new movie trailers
-
-Here is what the final app would look like
-
-![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
 ## How We Will Build
 
