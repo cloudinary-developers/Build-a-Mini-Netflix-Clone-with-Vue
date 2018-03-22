@@ -7,7 +7,7 @@
 
 In this lab, we will build out a **Mini Netflix** with Vue and Cloudinary in 10 minutes (possible less). Check out the live [Demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
 
-Developers are constantly faced with challenges of building complex products every single day. And there are constraints on the time needed to build out the features of these products.
+Developers are challenged daily with building complex products and struggle with time constraints for delivering the features of these products.
 
 Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
 
@@ -21,9 +21,9 @@ If you want to check out the final project, visit the Github repo:
 
 This guide assumes you:
 
-* Worked with [Vue](https://vuejs.org/) recently and have a fair knowledge of JavaScript.
-* Understand the basics what SaaS and FaaS is.
-* Know what Node.js is and some basic knowledge. Node will be used for the Serverless Webtask. You can install Node from the [Node website](https://nodejs.org/en/)
+* Have a working knowledge of [Vue](https://vuejs.org/) and JavaScript.
+* Understand the basics of serverless computing (we'll be using [Webtask](https://webtask.io/))
+* Have experience with NodeJS (used to program Webtasks, install [Node](https://nodejs.org/))
 
 Here is a list of all the high level tools we will use:
 
