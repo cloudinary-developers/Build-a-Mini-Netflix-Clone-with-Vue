@@ -1,70 +1,76 @@
-# Build a Mini Netflix Clone with Vue
+# Building Mini-Netflix Clones With Vue
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
 
 # [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
-In this lab, we will build out a **Mini Netflix** with Vue and Cloudinary in 10 minutes (possible less). Check out the live [Demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
+You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs want to roll out new products fast; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
 
-Developers are challenged daily with building complex products and struggle with time constraints for delivering the features of these products.
+This lab shows you how to build a **Mini Netflix** clone with Vue and Cloudinary in only 10 minutes or, in some cases, even less. Here is live [demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
 
-Engineering and Product managers want to beat deadlines for projects daily. CEOs want to roll out new products as fast as possible. Entrepreneurs need their MVPs like yesterday. With this in mind, what should developers do?
+To check out the final project, visit the Github repository:
 
-If you want to check out the final project, visit the Github repo:
+* [Client code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-client)
 
-* [Client Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-client)
+* [Server code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
 
-* [Server Code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
+## Prerequisites
 
-## What You Need
+You must have a working knowledge of [Vue](https://vuejs.org/) and JavaScript and, since this lab calls for development of [webtasks](https://webtask.io/), you must understand the basics of serverless computing. In addition, you must be adept with [NodeJS](https://nodejs.org/), which enables the programming of webtasks.
 
-This guide assumes you:
+> *MS I followed the all-lowercase capitalization of "webtask" on the webtask.io site.
 
-* Have a working knowledge of [Vue](https://vuejs.org/) and JavaScript.
-* Understand the basics of serverless computing (we'll be using [Webtask](https://webtask.io/))
-* Have experience with NodeJS (used to program Webtasks, install [Node](https://nodejs.org/))
-
-Here is a list of all the high level tools we will use:
+Install these tools:
 
 - Vue
 - Webtask
 - Node.js
 - Cloudinary
 - Mongo DB
-- Command Line
+- Command lines
 - Bulma CSS
 
-## What We Will Build
+## The Product
 
-Just like I mentioned in the beginning, we will build a Mini Netflix app with some of the features you see on Netflix website:
+The mini-Netflix app you will build features the following tasks, just as those on the Netflix site:
 
 - Listing movies
-- Selecting a movie
-- Watching a movie trailer
+- Selecting movies
+- Watching movie trailers
 - Sharing trailers on Twitter
-- Bonus: Uploading new movie trailers
+- Uploading new movie trailers (bonus)
 
-## How We Will Build
+## The Build Process
 
-The architecture of this project favours decentralizing to singleton. We have 3 major sections:
+The architecture of this project favors decentralization, not singleton, with three major sections:
 
-- Frontend (Vue)
-- Backend (Webtask FaaS)
+- Front end (Vue)
+- Back end (webtask FaaS)
 - Database (Mongo)
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521714212/Group_uzxrb7.png)
 
-## Participating in The Cloudinary Contest?
+## The Cloudinary Contest
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521714413/VueJS_Contest_image_xihzzm.png)
 
-1. There is no maximum or minimum team size. Top five projects will receive a drone. One drone per project.
-2. Teams should be made up developers at any knowledge level of the VueJS Framework who are not Cloudinary, employees, contractors, judges, or any other privileged position at the event.
-3. Teams can of course reach out for advice and support from Cloudinary, employees, contractors, and others.
-4. All work on a project should be completed by April 30th.
-5. Teams can use an idea to customize the project.
-6. The content submitted by you does not contain any pornography or other harmful or harassing videos or images.
-    1. Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. 
-    2. If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
-7. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to unsporting behavior.
+Here are the contest rules:
+
+- A participating development team can be any size. The top five winners will be awarded a drone, one drone per project.
+
+- Developers of any knowledge level of the Vue.js framework are free to participate, except for Cloudinary employees, contractors, judges, and those who hold official positions at the event.
+
+- Participating teams are welcome to seek advice or suggestions from those affiliated with Cloudinary: employees, contractors, and such.
+
+- All participating teams must complete their projects by April 30.
+
+- Participating teams are at liberty to customize their projects with their own ideas.
+
+- The submissions must contain no pornographic, harmful, or harassing videos or images.
+
+  *Harassment includes but is not limited to offensive verbal or written comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or similar events, inappropriate physical contact, or unwelcome sexual attention.
+  
+  *If what you’re doing is making someone feel uncomfortable, that counts as harassment and is enough reason to stop doing it.
+  
+- The contest organizers can disqualify participating teams from the contest at discretion. Reasons might include but are not limited to  unsporting behavior.
