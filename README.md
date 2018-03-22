@@ -3,7 +3,9 @@
 ![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
 
-# [Build a Mini Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
+# [Building Mini-Netflix Clones with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
+
+> *MS: Shouldn't we delete the duplicate title at the top?
 
 You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs want to roll out new products fast; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
 
@@ -19,7 +21,7 @@ To check out the final project, visit the Github repository:
 
 You must have a working knowledge of [Vue](https://vuejs.org/) and JavaScript and, since this lab calls for creation of [webtasks](https://webtask.io/), you must understand the basics of serverless computing. In addition, you must be adept with [NodeJS](https://nodejs.org/), which enables the programming of webtasks.
 
-> *MS I followed the all-lowercase convention of "webtask" on the webtask.io site.
+> *MS: I've followed the all-lowercase convention of "webtask" on the webtask.io site.
 
 Install these tools:
 
@@ -31,9 +33,9 @@ Install these tools:
 - Command lines
 - Bulma CSS
 
-## The Product
+## Clone Tasks
 
-The mini-Netflix app in this lab features the following tasks, like those on the Netflix site:
+The mini-Netflix clone you will build features the following tasks, like those on the Netflix site:
 
 - Listing movies
 - Selecting movies
@@ -43,7 +45,7 @@ The mini-Netflix app in this lab features the following tasks, like those on the
 
 ## The Build Process
 
-The architecture of this project is oriented toward decentralization, not singleton, with three major sections:
+The architecture of this project favors decentralization, not singleton, with three major sections:
 
 - Front end (Vue)
 - Back end (webtask FaaS)
