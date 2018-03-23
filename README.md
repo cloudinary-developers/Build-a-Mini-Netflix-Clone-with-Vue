@@ -59,9 +59,11 @@ The architecture of this project favors decentralization, not singleton, with th
 
 Note these rules:
 
-- A participating development team can be any size. The top five winners will be awarded a drone, one drone per project.
+- A participating development team can be any size.
 
-- Developers of any knowledge level of the Vue.js framework, except for Cloudinary employees, contractors, judges, and those who hold official positions at the event, are free to participate, .
+- The top five winners will be awarded a drone, one drone per project.
+
+- Developers of any knowledge level of the Vue.js framework, except for Cloudinary employees, contractors, judges, and those who hold official positions at the event, are free to participate.
 
 - Participating teams are welcome to seek advice or suggestions from those affiliated with Cloudinary: employees, contractors, and such.
 
