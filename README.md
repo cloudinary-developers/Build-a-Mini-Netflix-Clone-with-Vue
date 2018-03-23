@@ -2,7 +2,7 @@
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
-# [Building Mini-Netflix Clones with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
+# [Build a Mini-Netflix Clone with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
 > \*Marina: I suggest deleting the duplicate title at the top.
 
