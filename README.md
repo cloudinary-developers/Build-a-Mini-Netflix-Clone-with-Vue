@@ -19,7 +19,7 @@ If you want to check out the final project, visit the Github repo:
 
 You can also see the demo live here:
 
-[Demo](https://stupefied-mirzakhani-71dd38.netlify.com/)
+[Demo](https://vue-miniflix.herokuapp.com)
 
 ## What You Need
 
