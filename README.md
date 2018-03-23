@@ -7,7 +7,7 @@
 
 > *MS: I suggest deleting the duplicate title at the top.
 
-You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs want to roll out new products fast; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
+You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
 
 This lab shows you how to build a **Mini-Netflix** clone with Vue and Cloudinary in only 10 minutes or maybe even less. Here is the live [demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
 
