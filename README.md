@@ -5,7 +5,7 @@
 
 # [Building Mini-Netflix Clones with Vue](https://cloudinary.gitbooks.io/build-a-mini-netflix-clone-with-vue/content/)
 
-> *MS: I suggest deleting the duplicate title at the top.
+> *Marina: I suggest deleting the duplicate title at the top.
 
 You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, look for ways to boost efficiency for your tasks.  
 
