@@ -1,4 +1,4 @@
-# Building Mini-Netflix Clones With Vue
+# Build a Mini-Netflix Clone with Vue
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
@@ -70,7 +70,7 @@ Note these rules:
 
 * All participating teams must complete their projects by April 30.
 
-* Team must submit a live hosted demo link and a link to their GitHub repo to [@Cloudinary.](https://twitter.com/cloudinary) 
+* Team must submit a live hosted demo link and a link to their GitHub repo to [@Cloudinary.](https://twitter.com/cloudinary)
 
 * Participating teams are at liberty to customize their projects with their own ideas.
 
