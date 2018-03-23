@@ -7,9 +7,9 @@
 
 > *MS: I suggest deleting the duplicate title at the top.
 
-You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, learn ways that boost efficiency.  
+You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products (MVPs) "yesterday." How do you cope with those relentless demands? First and foremost, look for ways to boost efficiency for your tasks.  
 
-This lab shows you how to build a **Mini-Netflix** clone with Vue and Cloudinary in only 10 minutes or maybe even less. Here is the live [demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
+This lab shows you how to build a **Mini-Netflix** clone with Vue and Cloudinary in only 10 minutes or maybe even less. Here is a live [demo](https://stupefied-mirzakhani-71dd38.netlify.com/).
 
 To check out the final project, visit the Github repository:
 
@@ -35,7 +35,7 @@ Install these tools:
 
 ## Clone Tasks
 
-The mini-Netflix clone you will build features the following tasks, like those on the Netflix site:
+The mini-Netflix clone you will build features the following tasks, similar to those on the Netflix site:
 
 - Listing movies
 - Selecting movies
