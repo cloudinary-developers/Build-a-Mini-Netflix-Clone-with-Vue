@@ -13,7 +13,7 @@
 * [List of Movies Component](/vue/09.list-of-movies-component.md)
 * [Showing A List of Movies](/vue/10.showing-a-list-of-movies.md)
 * [New Movie Modal Component](/vue/11.new-movie-modal-component.md)
-* [Creating Movies](/vue/12.creating-movies.md)
+* [Uploading Movies](/vue/12.uploading-movies.md)
 * [Sharing on Twitter](/vue/13.sharing-on-twitter.md)
 * [Deploy to Heroku](/vue/14.deploy-to-heroku.md)
 * [What's Next](/vue/15.whats-next.md)

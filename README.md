@@ -27,13 +27,13 @@ You must have a working knowledge of [Vue](https://vuejs.org/) and JavaScript an
 
 Install these tools:
 
-- Vue
-- Webtask
-- Node.js
-- Cloudinary
-- Mongo DB
+- [Vue](https://vuejs.org)
+- [Webtask](https://webtask.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Cloudinary](https://cloudinary.com/)
+- [Mongo DB with mLab](https://mlab.com/)
 - Command lines
-- Bulma CSS
+- [Bulma CSS](https://bulma.io)
 
 ## Clone Tasks
 
