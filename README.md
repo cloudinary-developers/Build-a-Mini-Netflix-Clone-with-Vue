@@ -1,6 +1,6 @@
 # [Build a Mini-Netflix Clone with Vue](https://www.gitbook.com/book/cloudinary/build-a-mini-netflix-clone-with-vue)
 
-![](https://res.cloudinary.com/christekh/image/upload/v1521713473/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
+![](https://res.cloudinary.com/christekh/image/upload/q_auto,f_auto/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
 You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products \(MVPs\) "yesterday." How do you cope with those relentless demands? First and foremost, look for ways to boost efficiency for your tasks.
 
@@ -20,13 +20,13 @@ You must have a working knowledge of [Vue](https://vuejs.org/) and JavaScript an
 
 Install these tools:
 
-- [Vue](https://vuejs.org)
-- [Webtask](https://webtask.io/)
-- [Node.js](https://nodejs.org/en/)
-- [Cloudinary](https://cloudinary.com/)
-- [Mongo DB with mLab](https://mlab.com/)
-- Command line
-- [Bulma CSS](https://bulma.io)
+* [Vue](https://vuejs.org)
+* [Webtask](https://webtask.io/)
+* [Node.js](https://nodejs.org/en/)
+* [Cloudinary](https://cloudinary.com/)
+* [Mongo DB with mLab](https://mlab.com/)
+* Command line
+* [Bulma CSS](https://bulma.io)
 
 ## Clone Tasks
 
@@ -47,3 +47,4 @@ The architecture of this project favors decentralization, not singleton, with th
 * Database \(Mongo\)
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521714212/Group_uzxrb7.png)
+
