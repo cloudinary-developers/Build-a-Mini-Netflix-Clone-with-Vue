@@ -18,8 +18,6 @@ To check out the final project, visit the Github repository:
 
 You must have a working knowledge of [Vue](https://vuejs.org/) and JavaScript and, since this lab calls for creation of [webtasks](https://webtask.io/), you must understand the basics of serverless computing. In addition, you must be adept with [NodeJS](https://nodejs.org/), which enables the programming of webtasks.
 
-> \*MS: I've followed the all-lowercase convention of "webtask" on the webtask.io site.
-
 Install these tools:
 
 - [Vue](https://vuejs.org)
