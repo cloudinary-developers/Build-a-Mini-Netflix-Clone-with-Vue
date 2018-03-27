@@ -54,7 +54,7 @@ The architecture of this project favors decentralization, not singleton, with th
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521714413/VueJS_Contest_image_xihzzm.png)
 
-
+# [Contest Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfNcaUuw4NTNYRoDfOCI5pQcHrwV5vPs5c2id9plCoHGsE0RA/viewform)
 
 Note these rules:
 
