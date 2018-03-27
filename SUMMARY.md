@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Enter Contest](/vue/contest.md)
+
 * [Media Delivery and Transformation](/vue/0.intro.md)
 * [Setting Up a Webtask Server](/vue/01.setting-up-a-webtask-server.md)
 * [Provision and Configure a Database](/vue/02.provision-and-configure-a-database.md)
