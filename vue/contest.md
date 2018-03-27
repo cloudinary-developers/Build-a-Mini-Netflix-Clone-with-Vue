@@ -5,7 +5,7 @@
 #Enter by May 31st!
 # [Contest Entry Form](https://docs.google.com/forms/d/e/1FAIpQLSfNcaUuw4NTNYRoDfOCI5pQcHrwV5vPs5c2id9plCoHGsE0RA/viewform)
 
-Note these rules:
+####Note these rules:
 
 * A participating development team can be any size.
 
