@@ -54,6 +54,8 @@ The architecture of this project favors decentralization, not singleton, with th
 
 ![](https://res.cloudinary.com/christekh/image/upload/v1521714413/VueJS_Contest_image_xihzzm.png)
 
+
+
 Note these rules:
 
 * A participating development team can be any size.
@@ -66,7 +68,7 @@ Note these rules:
 
 * All participating teams must complete their projects by April 30.
 
-* Team must submit a live hosted demo link and a link to their GitHub repo to [@Cloudinary.](https://twitter.com/cloudinary)
+* Team must submit a live hosted demo link and a link to their GitHub repo.
 
 * Participating teams are at liberty to customize their projects with their own ideas.
 
