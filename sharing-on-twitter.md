@@ -10,7 +10,7 @@ npm install --save vue-social-sharing
 
 Configure the library in `src/main.js`:
 
-```js
+```javascript
 const SocialSharing = require('vue-social-sharing');
 
 Vue.use(SocialSharing);
@@ -18,7 +18,7 @@ Vue.use(SocialSharing);
 
 Add the following to the nav bar items:
 
-```html
+```markup
 <a class="button navbar-item">
   <social-sharing 
     title="Build a Mini Netflix from scratch" 
@@ -31,6 +31,4 @@ Add the following to the nav bar items:
   </social-sharing>
 </a>
 ```
-
-
 

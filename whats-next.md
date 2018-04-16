@@ -27,5 +27,3 @@ Here are some cool things to try:
 3. Use a different poster frame for each video - and stylize them. \([r\_max](https://cloudinary.com/cookbook/applying_rounded_corners_to_an_image) or [style transfer](https://cloudinary.com/documentation/neural_artwork_style_transfer_addon)\)
 4. [Generate Video Preview Clips](https://cloudinary.com/cookbook/generating_video_preview_clips2)
 
-
-

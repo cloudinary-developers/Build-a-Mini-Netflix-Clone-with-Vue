@@ -34,7 +34,7 @@ npm install express serve-static
 
 Next, create a `server.js` file at the root of your project and add the following:
 
-```js
+```javascript
 var express = require('express');
 var path = require('path');
 var serveStatic = require('serve-static');
@@ -48,7 +48,7 @@ app.listen(port, () => console.log('server started ' + port););
 
 The code serves a `dist` folder in our project. This folder does not exist unless we run the following command to build:
 
-```
+```text
 npm run build
 ```
 
@@ -66,7 +66,7 @@ node server.js
 
 Heroku by default, would want to run the `start` script in your `package.json`. Let's set that up:
 
-```json
+```javascript
 "scripts": {
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build",
@@ -94,6 +94,4 @@ After the deploy process, run the command below to open the app:
 ```bash
 heroku open
 ```
-
-
 
