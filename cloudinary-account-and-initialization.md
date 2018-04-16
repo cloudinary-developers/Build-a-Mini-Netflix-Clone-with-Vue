@@ -4,7 +4,7 @@ Create the `cloudinaryInstance` instance so you can pass it to `VideoPlayer`.
 
 ## Create a Cloudinary Account
 
-In the **MANAGEMENT CONSOLE LOGIN** screen, create a [Cloudinary account](https://cloudinary.com/users/login) or, if you have already done so, sign in.
+In the **MANAGEMENT CONSOLE LOGIN** screen, create a [Cloudinary account](https://cloudinary.com/users/login?utm_source=Gitbook&utm_medium=VueJS&utm_content=Buid_Mini_Netflix_VueJS) or, if you have already done so, sign in.
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_C4E0BB4A3CA481FA22D9AA6239D953F2B1D94D00408DB28F7AB567E3C6C4DB1A_1521618396504_Screen+Shot+2018-03-21+at+8.46.20+AM.png)
 
