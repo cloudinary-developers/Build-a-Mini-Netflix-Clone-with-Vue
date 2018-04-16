@@ -1,4 +1,4 @@
-# Introduction
+# [Build a Mini-Netflix Clone with Vue](https://www.gitbook.com/book/cloudinary/build-a-mini-netflix-clone-with-vue)
 
 ![](https://res.cloudinary.com/christekh/image/upload/w_800,q_auto,f_auto/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
 
@@ -9,6 +9,7 @@ This lab shows you how to build a **Mini-Netflix** clone with Vue and Cloudinary
 To check out the final project, visit the Github repository:
 
 * [Client code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-client)
+
 * [Server code](https://github.com/cloudinary-developers/vue-mini-netflix-demo-server)
 
 [Demo](https://vue-miniflix.herokuapp.com)
