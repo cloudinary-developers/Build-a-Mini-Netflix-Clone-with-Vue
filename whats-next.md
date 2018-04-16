@@ -12,8 +12,8 @@ Here are some helpful links to consider:
 
 * Awesome Vue: [https://github.com/vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 * Vue Cookbook: [https://vuejs.org/v2/cookbook](https://vuejs.org/v2/cookbook)
-* Video Transformation: [https://cloudinary.com/documentation/video\_manipulation\_and\_delivery](https://cloudinary.com/documentation/video_manipulation_and_delivery)
-* Vide Player: [https://cloudinary.com/documentation/cloudinary\_video\_player](https://cloudinary.com/documentation/cloudinary_video_player)
+* Video Transformation: [https://cloudinary.com/documentation/video\_manipulation\_and\_delivery](https://cloudinary.com/documentation/video_manipulation_and_delivery?utm_source=Gitbook&utm_medium=VueJS&utm_content=Buid_Mini_Netflix_VueJS)
+* Vide Player: [https://cloudinary.com/documentation/cloudinary\_video\_player](https://cloudinary.com/documentation/cloudinary_video_player?utm_source=Gitbook&utm_medium=VueJS&utm_content=Buid_Mini_Netflix_VueJS)
 * Webtask Documentation: [https://webtask.io/docs/101](https://webtask.io/docs/101)
 
 ## Assignment
@@ -23,7 +23,7 @@ You can extend this project to get even more interesting. When you extend, tweet
 Here are some cool things to try:
 
 1. Try adding a pre or post roll video to each clip
-2. [Overlay](https://cloudinary.com/documentation/image_transformations#image_and_text_overlays) the logo over the video
-3. Use a different poster frame for each video - and stylize them. \([r\_max](https://cloudinary.com/cookbook/applying_rounded_corners_to_an_image) or [style transfer](https://cloudinary.com/documentation/neural_artwork_style_transfer_addon)\)
-4. [Generate Video Preview Clips](https://cloudinary.com/cookbook/generating_video_preview_clips2)
+2. Overlay the logo over the video
+3. Use a different poster frame for each video - and stylize them. \(r\_max or style transfer\)
+4. Generate Video Preview Clips
 
