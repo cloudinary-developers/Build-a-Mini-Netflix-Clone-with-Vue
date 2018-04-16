@@ -42,5 +42,5 @@ Make the `VideoPlayer.vue` file read like this:
 </style>
 ```
 
-The above template relies on a `movie` object to show the content of the movie or that of the default. `movie` also renders a `video` tag to be attached to the source through the Cloudinary API. Also created is a button for playing or pausing the trailer.
+The above template relies on a `movie` object to show the content of the movie or that of the default. `movie` also renders a `video` tag to be attached to the source through the [Cloudinary API](https://cloudinary.com/documentation/video_player_api_reference?utm_source=Gitbook&utm_medium=VueJS&utm_content=Buid_Mini_Netflix_VueJS). Also created is a button for playing or pausing the trailer.
 
