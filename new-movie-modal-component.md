@@ -1,10 +1,10 @@
-# Create a Movie-Modal Component
+# New Movie Modal Component
 
 You have now created an amazing Netflix clone. How about adding more videos? This section, and the next, show you how to add a movie by uploading its title, banner, and trailer.
 
 Start with adding an `UploadModal` component with the following content for the upload modal:
 
-```html
+```markup
 <template>
   <sweet-modal modal-theme="dark" overlay-theme="dark" ref="modal">
     <form @submit.prevent="handleUpload()" class="has-text-left">
@@ -42,23 +42,32 @@ export default {
 The component contains a form with the following elements:
 
 * An `input` class for `title`:
-  ```html
+
+  ```markup
     <input class="input" type="text" placeholder="Text input" v-model="title">
   ```
+
 * A `button` class for uploading `banner`:
-  ```html
+
+  ```markup
     <button class="button" @click="startUpload('banner')">Upload</button>
   ```
+
 * A `button` class for uploading `video`:
-  ```html
+
+  ```markup
     <button class="button" @click="startUpload('trailer')">Upload</button>
   ```
+
 * A `button` class for a **Submit** button:
-  ```html
+
+  ```markup
     <button class="button is-danger">Submit</button>
   ```
+
 * Two `span` tags to show the IDs of the uploaded items:
-  ```html
+
+  ```markup
     <span class="has-text-white">{{banner}}</span>
   ```
 

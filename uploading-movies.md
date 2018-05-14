@@ -2,56 +2,56 @@
 
 Finally, take the modal in the preceding section live.
 
-
 ## Upload the Modal Trigger
 
 To upload the modal trigger:
 
 1. Add a button to the navigation bar for launching the upload modal on a click:
 
-  ```html
-  <div class="navbar-menu">
+   ```markup
+   <div class="navbar-menu">
     <div class="navbar-end">
       <a class="button navbar-item" @click="showModal = !showModal">
         Upload
       </a>  
     </div>
-  </div>
-  ```
-  Every time you click that button, it flips a `showModal` boolean. Add the property to the data model:
+   </div>
+   ```
 
-  ```js
-  showModal: false,
-  ```
+   Every time you click that button, it flips a `showModal` boolean. Add the property to the data model:
+
+   ```javascript
+   showModal: false,
+   ```
 
 2. Add `UploadModal` to the `App` component as a child. Start with adding the element immediately below the container `div`:
 
-  ```html
-  <UploadModal :showModal="showModal" @handle-       
-  upload="uploadToServer"></UploadModal>
-  ```
+   ```markup
+   <UploadModal :showModal="showModal" @handle-       
+   upload="uploadToServer"></UploadModal>
+   ```
 
-  Note that you are passing down `showModal` to the component. You will learn about the `handle-upload` event later.
+   Note that you are passing down `showModal` to the component. You will learn about the `handle-upload` event later.
 
-3.  Import `UploadModal` to `App`:
+3. Import `UploadModal` to `App`:
 
-  ```js
-  import UploadModal from './components/UploadModal.vue';
+   ```javascript
+   import UploadModal from './components/UploadModal.vue';
 
-  export default {
-    //...
-  components: {
-    //...
-  UploadModal
-    }
-  }
-  ```
+   export default {
+   //...
+   components: {
+   //...
+   UploadModal
+   }
+   }
+   ```
 
 ## Watch `showModal`
 
 You show the modal according to the value of the `showModal` property in the `UploadModal` component:
 
-```js
+```javascript
 watch: {
   showModal(val) {
     val ? this.$refs.modal.open() : this.$refs.modal.close();
@@ -67,7 +67,7 @@ Click the **Upload** button for the modal:
 
 On a click of each of the **Upload** buttons on the modal, the `startUpload` method is called but with different arguments. Create that method as follows:
 
-```js
+```javascript
 methods: {
   startUpload(type) {
     cloudinary.openUploadWidget(
@@ -89,8 +89,8 @@ Besides `cloud_name`, you must also create `upload_preset`, unsigned, to enable 
 
 The upload widget uses another library for modularity. Add the following code below the scripts in the `public/index.html` file:
 
-```html
-<script src="//widget.cloudinary.com/global/all.js" type="text/javascript"></script>  
+```markup
+<script src="//widget.cloudinary.com/global/all.js" type="text/javascript"></script>
 ```
 
 Clicking the **Upload** button on the modal displays this widget:
@@ -103,7 +103,7 @@ The form contains an attached `handleUpload` event, which ensures that on a clic
 
 Add this code to the `methods` object:
 
-```js
+```javascript
 handleUpload() {
   const data = {
     title: this.title,
@@ -119,13 +119,13 @@ handleUpload() {
 
 Recall that the element for `UploadModal` reads like this:
 
-```html
+```markup
 <UploadModal :showModal="showModal" @handle-upload="uploadToServer"></UploadModal>
 ```
 
 The `uploadToServer` method is the handler for the event generated in the child component. Create `uploadToServer` in the `methods` object:
 
-```js
+```javascript
 uploadToServer(data) {
   axios.post(this.url, data).then(res => {
     this.movies = [...this.movies, res.data];
@@ -138,7 +138,7 @@ uploadToServer(data) {
 
 The `App` component script reads:
 
-```js
+```javascript
 import axios from 'axios';
 import VideoPlayer from './components/VideoPlayer.vue';
 import VideoList from './components/VideoList.vue';
@@ -181,3 +181,4 @@ export default {
   }
 };
 ```
+

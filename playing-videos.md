@@ -1,13 +1,12 @@
-# Play a Video
+# Playing Videos
 
-Now add the JavaScript logic for playing trailers. The almost-stateless component receives properties (`props`) from the parent (`App`) component.
-
+Now add the JavaScript logic for playing trailers. The almost-stateless component receives properties \(`props`\) from the parent \(`App`\) component.
 
 ## Add the Properties
 
 Add the following code below the `script` tag:
 
-```js
+```javascript
 export default {
   props: ['cloudinaryInstance', 'movie'],
 }
@@ -17,12 +16,11 @@ export default {
 
 The `movie` property, which is the player payload, is a single item from the array of movies in the database. Each item contains a title and a trailer video for rendering.
 
-
 ## Add Video Features
 
 Add a `mounted` lifecycle method to the Vue object with the following code:
 
-```js
+```javascript
 mounted() {
   this.player = this.cloudinaryInstance.videoPlayer('trailer', {
     transformation: {
@@ -49,11 +47,8 @@ mounted() {
 After creating the player, change its behavior by means of methods. For example:
 
 * Add a `source` method that matches the public ID on your Cloudinary server. The source can come from the `movie` property or default to the Black Panther trailer.
-
-* Because the video plays by default and loops when it ends, you might find that distracting if you are not watching, that is, not on the **Play** tab. As a solution, add code to check if the document is hidden and, if so, mute the player. 
-
+* Because the video plays by default and loops when it ends, you might find that distracting if you are not watching, that is, not on the **Play** tab. As a solution, add code to check if the document is hidden and, if so, mute the player.
 * Add two events, `onfocus` and `onblur`, to check if the **Play** tab is active or inactive. Accordingly, unmute or mute, respectively.
-
 
 ## Change the Current Trailer
 
@@ -61,7 +56,7 @@ Next, build a list of movies, from which you can select a movie, after which the
 
 Add the following code to the `watch` object:
 
-```js
+```javascript
 watch: {
   movie(newMovie, oldMovie) {
     this.player.source(newMovie.trailer);
@@ -69,14 +64,13 @@ watch: {
 },
 ```
 
-The name of the method (`movie`) in that object must match the property of the movie you intend to watch. If the value is different, call the `source` method to update the player.
-
+The name of the method \(`movie`\) in that object must match the property of the movie you intend to watch. If the value is different, call the `source` method to update the player.
 
 ## Import to `App`
 
 The `VideoPlayer` component functions only if it is mounted in its parent component. To import the component in its script, edit the `App.vue` file to read as follows:
 
-```js
+```javascript
 import VideoPlayer from './components/VideoPlayer.vue';
 export default {
   components: {
@@ -89,10 +83,11 @@ You must specify in `App.vue` that `VidePlayer` is a child by adding it to the l
 
 Next, render the component immediately below the navigation code:
 
-```html
+```markup
 ...
 </nav>
 <VideoPlayer :cloudinaryInstance="cloudinaryInstance" :movie="movie"></VideoPlayer>
 ```
 
 In the above code, `cloudinaryInstance` and `movie`, which you will create in the next section, are passed down to the component through the `VideoPlayer` element.
+
