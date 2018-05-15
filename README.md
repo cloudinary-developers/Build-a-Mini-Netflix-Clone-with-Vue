@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://res.cloudinary.com/christekh/image/upload/w_800,q_auto,f_auto/Screen_Shot_2018-03-22_at_11.10.14_AM_siu88b.png)
+![](.gitbook/assets/guardinas-of-the-galaxy.jpeg)
 
 You as developers face the continuous challenge of building complex products with elaborate features in the face of tight schedules. Behind the scenes, engineering and product management constantly aims at beating project deadlines; CEOs clamor for fast rollouts of new products; and entrepreneurs need their minimum viable products \(MVPs\) "yesterday." How do you cope with those relentless demands? First and foremost, look for ways to boost efficiency for your tasks.
 
