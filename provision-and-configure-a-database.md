@@ -40,7 +40,7 @@ Next, create a schema and model with the Mongoose library to interact with our d
 1. Create a file named `db.js` with the following content in a folder called `middleware`:
 
    ```javascript
-   // ./middlewares/db.js
+   // ./middleware/db.js
    var mongoose = require('mongoose');
    const MovieSchema = new mongoose.Schema({
       title: String,
