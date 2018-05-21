@@ -20,13 +20,13 @@ npm install @vue/cli -g
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_C4E0BB4A3CA481FA22D9AA6239D953F2B1D94D00408DB28F7AB567E3C6C4DB1A_1521569426688_Screen+Shot+2018-03-19+at+12.16.20+PM.png)
 
-1. Go to the `mini-netflix` folder created by the command in step 1:
+2. Go to the `mini-netflix` folder created by the command in step 1:
 
    ```bash
    cd mini-netflix
    ```
 
-2. Test-run the scaffold:
+3. Test-run the scaffold:
 
    ```bash
    npm run serve
